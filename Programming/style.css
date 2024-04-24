@@ -1,0 +1,140 @@
+
+#bg{
+    background-color: white;
+}
+
+body{
+    margin: 0px;
+    padding: 0;
+    background-color: #1e1e1e;
+      
+}
+main{
+    margin: 5%;
+}
+h1{
+    text-align: center;
+    margin-left: 0%;
+    font-size: 50px;
+  font-weight: bolder;
+     
+      
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(197, 83%, 47%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.navbar a{
+    color: black;
+    text-decoration: none;
+    padding: 25px 20px;
+    display: block;
+    text-align: center;
+    font-weight:bold;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(197, 82%, 35%);
+}
+.navbar li{
+    display: inline-block;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 0;
+    margin-right: 60%;
+  }
+  
+#lg{
+    font-size: 200%;
+    font-weight: bold;
+    margin-left: 0%;
+    .underline {
+        text-decoration: underline;
+      }
+      
+}
+.img_reg{
+    margin-bottom: 0%;
+    width: 45%;
+    height: 40%;
+    
+
+}
+#hd{
+    float: right;
+    font-size: 200%;
+    .underline {
+        text-decoration: underline;
+      }
+    position: relative; top: 90px;
+
+}
+.img_feg{
+    width: 45%;
+    height: 40%;
+
+}
+.img_heg{
+    
+    width: 45%;
+    height: 40%;
+    
+
+}
+/* /* #ph{
+    position: relative; right: 800px;
+    float: right;
+    font-size: 200%;
+    font-weight: bold;
+    .underline {
+        text-decoration: underline;
+    } */
+    
+ 
+#fill{
+    font-size: 150%;
+    font-weight: bold;
+   text-align: center;
+}
+#move{
+    position: relative; left: 570px;
+    position: relative; top: 50px;
+
+}
+.img_meg{
+    float: right;
+    width: 45%;
+    height: 400px;
+    position: relative; bottom: 50px;
+}
+.img_teg{
+    
+    width: 40%;
+    height: 40%;
+}
+#reg{
+    position: relative; top: 30px;
+}
+#deg{
+    position: relative; bottom: 20px;
+}
+#ph{
+    font-size: 200%;
+    font-weight: bold;
+    margin-left: 0%;
+    .underline {
+        text-decoration: underline;
+      }
+    }
+#feg{
+    position: relative; top: 150px;
+}
